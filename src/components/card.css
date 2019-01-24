@@ -1,0 +1,19 @@
+.card {
+  flex: 0 0 15%;
+  margin: 0.5%;
+  border: rgb(255, 198, 93) 5px solid;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #000;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/7/71/Marvel-Comics-Logo.svg');
+  background-size: 66%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  -webkit-user-drag: none;
+}
